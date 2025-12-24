@@ -1,0 +1,5 @@
+Python_Basics/
+.vs/
+.idea/
+__pycache__/
+*.pyc
